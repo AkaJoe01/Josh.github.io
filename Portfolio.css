@@ -1,0 +1,178 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    max-width: 1024px;
+    margin: auto;
+    /*padding: auto;*/
+    /*display: flex;*/
+    /*flex-wrap: wrap;*/
+    /*justify-content:space-around;*/
+}
+
+.parent_div {
+    display: flex;
+    align-items: center;
+    border: 1px solid none;
+    background-color: #141414;
+    /*padding: auto;
+    margin: auto;*/
+    /*margin-top: 70px;*/
+    /*width: auto;*/
+    justify-content: center;
+    /*overflow-inline: auto;*/
+}
+
+.inner_div {
+    align-items: center;
+    border: 1px solid none;
+    border-radius: 10px;
+    background-color: #1F1F1F;
+    padding: 20px;
+    margin: 55px auto;
+    /*max-width: 80%;*/
+    height: auto;
+    /*justify-content: center;*/ 
+}
+
+img {
+    border-radius: 50%;
+    max-width: 45%;
+    /*position: absolute;*/
+    margin-left: 55px;
+    height: auto;
+   /* padding: 80px;*/
+    /*margin-top: 30px;*/
+    /*align-items: center;*/
+}
+
+.paragraph {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    color: azure;
+    margin-bottom: 50%;
+    /*font-size: 70px 1.2rem;*/
+    /*font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px 1.2rem;
+    position: absolute;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px auto;*/
+}
+
+.second_paragraph {
+    color: #E6FF63;
+    margin-top: -45%;
+    /*margin-bottom: 30%;*/
+    margin-top: 20% auto;
+    font-size: 40px 1.2em;
+    text-align: center;
+    /*padding: 50px;*/
+    margin-left: 50px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Developer paragraph*/
+.third_paragraph {
+    color: azure;
+    font-size: 15px; 
+    font-family: sans-serif;
+    margin-top: 30px;
+}
+
+/*For the first DIV*/ 
+
+.github {
+    border: 1px solid #333333;
+    width: auto;
+    border-radius: 10px;
+    margin-top: 30px;
+    align-items: center;
+    background-color: #333333;
+}
+
+/*For the paragraph in the DIV*/
+.git_paragraph {
+    text-align: center;
+    color:azure;
+    font-size: 10px 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*For Second Div*/
+.mentor {
+    margin-top: 10px;
+    border: 1px solid #333333;
+    width: auto;
+    border-radius: 10px;
+    background-color: #333333;
+    align-items: center;
+}
+
+/*For the paragraph*/
+
+.Frontend {
+    text-align: center;
+    color: azure;
+    font-size: 10px 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Third DIV*/
+
+.Linked {
+    border: 1px solid #333333;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: auto;
+    background-color: #333333;
+    align-items: center;
+}
+
+/*For the paragraph*/
+
+.In {
+    text-align: center;
+    color: azure;
+    font-size: 10px 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*For the fourth DIV*/
+
+.twitter {
+    border: 1px solid #333333;
+    border-radius: 10px;
+    margin-top: 10px;
+    align-items: center;
+    width: auto;
+    background-color: #333333;
+}
+
+.fourth_paragraph {
+    text-align: center;
+    color: azure;
+    font-size: 10px 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.IG {
+    border: 1px solid #333333;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: auto;
+    background-color: #333333;
+    align-items: center;
+}
+
+.instagram {
+    text-align: center;
+    color: azure;
+    font-size: 10px 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
